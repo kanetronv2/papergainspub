@@ -1,13 +1,13 @@
 .jumbotron {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   margin-bottom: 0;
   background-color: #fff;
 }
 @media (min-width: 768px) {
   .jumbotron {
-    padding-top: 6rem;
-    padding-bottom: 6rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
   }
 }
 
@@ -30,4 +30,15 @@ footer {
 
 footer p {
   margin-bottom: .25rem;
+}
+
+.logo {
+  padding: 10px;
+  max-width: 25%;
+  object-fit:cover;
+  border-radius:50%;
+}
+
+html {
+  scroll-behavior: smooth;
 }
