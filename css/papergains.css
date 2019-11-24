@@ -43,6 +43,10 @@ html {
   scroll-behavior: smooth;
 }
 
+h6 {
+  font-style: italic;
+}
+
 .price {
   font-size: large;
 }
@@ -50,4 +54,8 @@ html {
 .thumb {
   object-fit: cover;
   max-height: 300px;
+}
+
+.data {
+  font-size: small;
 }
