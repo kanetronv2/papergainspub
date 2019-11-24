@@ -49,5 +49,5 @@ html {
 
 .thumb {
   object-fit: cover;
-  height: 300px;
+  max-height: 300px;
 }
