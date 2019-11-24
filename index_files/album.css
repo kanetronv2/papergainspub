@@ -42,3 +42,12 @@ footer p {
 html {
   scroll-behavior: smooth;
 }
+
+.price {
+  font-size: large;
+}
+
+.thumb {
+  object-fit: cover;
+  height: 300px;
+}
